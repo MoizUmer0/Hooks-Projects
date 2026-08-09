@@ -1,3 +1,6 @@
+## 📁 Project Structure
+
+```text
 5-Project/
 │
 ├── src/
